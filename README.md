@@ -6,4 +6,13 @@ This system is about an online shopping website for Electronics.
 1. customers
 2. products
 3. orders
-4. 
+
+
+#PRODUCTS
+Categories
+Sub categories
+Products  setup
+product description
+Price
+
+
